@@ -723,7 +723,7 @@ body {
     margin-bottom: 2px;
   }
     .header {
-        position: absolute;
+        position: relative;
         display: block;
         padding: 20px 5%;
     }
